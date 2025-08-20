@@ -1,0 +1,119 @@
+1. Levante
+   La Liga SmartBank titles: 3
+   Copa del Rey: 1
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+2. Alaves
+   La Liga SmartBank titles: 1
+   Copa del Rey: 1
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+3. Las Palmas
+   La Liga SmartBank titles: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+4. Granada
+   La Liga SmartBank titles: 1
+   Copa del Rey: 2
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+5. Sporting Gijon
+   La Liga SmartBank titles: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+6. Huesca
+   La Liga SmartBank titles: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+7. Mirandes
+   La Liga SmartBank titles: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+8. Lugo
+   La Liga SmartBank titles: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+9. Ponferradina
+   La Liga SmartBank titles: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Champions League: 0
+
+10. Cartagena
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+11. Tenerife
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+12. Ibiza
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+13. Oviedo
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+14. Albacete
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+15. Malaga
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+16. Burgos
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+17. Andorra
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+18. Eibar
+    La Liga SmartBank titles: 1
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+19. Zaragoza
+    La Liga SmartBank titles: 0
+    Copa del Rey: 6
+    Supercopa de Espana: 0
+    UEFA Champions League: 0
+
+20. Lugo
+    La Liga SmartBank titles: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Champions League: 0

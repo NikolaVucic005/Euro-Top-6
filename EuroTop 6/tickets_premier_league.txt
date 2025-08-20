@@ -1,0 +1,4 @@
+North/South stand: 100 euros
+East stand: 120 euros
+West stand: 150 euros
+VIP lounge: 200 euros

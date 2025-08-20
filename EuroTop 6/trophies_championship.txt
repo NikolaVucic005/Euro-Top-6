@@ -1,0 +1,131 @@
+1. Sheffield United
+   Championship titles: 0
+   FA Cup: 1
+   EFL Cup: 1
+   UEFA Champions League: 0
+
+2. Ipswich Town
+   Championship titles: 1
+   FA Cup: 2
+   EFL Cup: 4
+   UEFA Champions League: 0
+
+3. Leicester City
+   Championship titles: 0
+   FA Cup: 1
+   EFL Cup: 3
+   UEFA Champions League: 0
+
+4. Southampton
+   Championship titles: 0
+   FA Cup: 1
+   EFL Cup: 1
+   UEFA Champions League: 0
+
+5. Middlesbrough
+   Championship titles: 0
+   FA Cup: 0
+   EFL Cup: 1
+   UEFA Champions League: 0
+
+6. Sunderland
+   Championship titles: 0
+   FA Cup: 2
+   EFL Cup: 1
+   UEFA Champions League: 0
+
+7. Norwich City
+   Championship titles: 4
+   FA Cup: 0
+   EFL Cup: 0
+   UEFA Champions League: 0
+
+8. Coventry City
+   Championship titles: 0
+   FA Cup: 1
+   EFL Cup: 0
+   UEFA Champions League: 0
+
+9. Stoke City
+   Championship titles: 0
+   FA Cup: 0
+   EFL Cup: 0
+   UEFA Champions League: 0
+
+10. Swansea City
+    Championship titles: 1
+    FA Cup: 0
+    EFL Cup: 1
+    UEFA Champions League: 0
+
+11. Blackburn Rovers
+    Championship titles: 1
+    FA Cup: 6
+    EFL Cup: 1
+    UEFA Champions League: 1
+
+12. Hull City
+    Championship titles: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+13. Cardiff City
+    Championship titles: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+14. Watford
+    Championship titles: 2
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+15. Birmingham City
+    Championship titles: 0
+    FA Cup: 2
+    EFL Cup: 2
+    UEFA Champions League: 0
+
+16. Millwall
+    Championship titles: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+17. West Bromwich Albion
+    Championship titles: 0
+    FA Cup: 5
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+18. Leeds United
+    Championship titles: 3
+    FA Cup: 1
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+19. Rotherham United
+    Championship titles: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+20. Preston North End
+    Championship titles: 0
+    FA Cup: 2
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+21. Queens Park Rangers
+    Championship titles: 2
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Champions League: 0
+
+22. Reading
+    Championship titles: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Champions League: 0

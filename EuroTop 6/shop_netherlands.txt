@@ -1,0 +1,7 @@
+Football scarf|7
+Football boots|20
+Football ball|40
+Football backpack|40
+Football jersey|40
+Football medals/Trophies (replica)|45
+Football jersey with player's signature|65

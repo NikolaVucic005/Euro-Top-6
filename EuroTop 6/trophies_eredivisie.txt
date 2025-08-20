@@ -1,0 +1,107 @@
+1. Ajax
+   Eredivisie titles: 35
+   KNVB Cup: 20
+   Johan Cruyff Shield: 9
+   UEFA Champions League: 4
+
+2. PSV Eindhoven
+   Eredivisie titles: 24
+   KNVB Cup: 9
+   Johan Cruyff Shield: 8
+   UEFA Champions League: 1
+
+3. Feyenoord
+   Eredivisie titles: 15
+   KNVB Cup: 12
+   Johan Cruyff Shield: 4
+   UEFA Champions League: 1
+
+4. AZ Alkmaar
+   Eredivisie titles: 2
+   KNVB Cup: 4
+   Johan Cruyff Shield: 0
+   UEFA Champions League: 0
+
+5. Vitesse
+   Eredivisie titles: 0
+   KNVB Cup: 1
+   Johan Cruyff Shield: 0
+   UEFA Champions League: 0
+
+6. Utrecht
+   Eredivisie titles: 0
+   KNVB Cup: 2
+   Johan Cruyff Shield: 0
+   UEFA Champions League: 0
+
+7. Twente
+   Eredivisie titles: 3
+   KNVB Cup: 2
+   Johan Cruyff Shield: 0
+   UEFA Champions League: 0
+
+8. Groningen
+   Eredivisie titles: 1
+   KNVB Cup: 2
+   Johan Cruyff Shield: 0
+   UEFA Champions League: 0
+
+9. Heerenveen
+   Eredivisie titles: 0
+   KNVB Cup: 0
+   Johan Cruyff Shield: 0
+   UEFA Champions League: 0
+
+10. Fortuna Sittard
+    Eredivisie titles: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+11. RKC Waalwijk
+    Eredivisie titles: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+12. Willem II
+    Eredivisie titles: 0
+    KNVB Cup: 2
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+13. Sparta Rotterdam
+    Eredivisie titles: 2
+    KNVB Cup: 2
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+14. NEC Nijmegen
+    Eredivisie titles: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+15. Volendam
+    Eredivisie titles: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+16. Cambuur
+    Eredivisie titles: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+17. Excelsior
+    Eredivisie titles: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
+
+18. Emmen
+    Eredivisie titles: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Champions League: 0
