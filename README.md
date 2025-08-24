@@ -29,11 +29,9 @@ For each league, users can:
 
 # Project Structure
 
-Example structure (simplified):
-
 EuroTop6/
-- Top 6.py Main Python application
-- premier_league.txt # Example data files
+- Top 6.py Main
+- premier_league.txt(one of the main text files)
 - championship.txt
 - laliga.txt
 - segunda.txt
