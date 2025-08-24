@@ -74,6 +74,6 @@ The Tkinter window will open, allowing you to select a league and explore its fe
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
 # Contact
-Created by Nikola Vucić. For questions or feedback, reach out via GitHub Discussions or Issues.
+Created by Nikola Vucic. For questions or feedback, reach out via GitHub Discussions or Issues.
 
 *Thanks for checking out Euro Top 6!*
