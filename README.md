@@ -32,20 +32,20 @@ For each league, users can:
 Example structure (simplified):
 
 EuroTop6/
--Top 6.py Main Python application
--premier_league.txt # Example data files
--championship.txt
--laliga.txt
--segunda.txt
--serie_a.txt
--serie_b.txt
--bundesliga.txt
--bundesliga2.txt
--ligue1.txt
--ligue2.txt
--eredivisie.txt
--erstedivisie.txt
--(trophy, schedule, store, and ticket files for each league)
+- Top 6.py Main Python application
+- premier_league.txt # Example data files
+- championship.txt
+- laliga.txt
+- segunda.txt
+- serie_a.txt
+- serie_b.txt
+- bundesliga.txt
+- bundesliga2.txt
+- ligue1.txt
+- ligue2.txt
+- eredivisie.txt
+- erstedivisie.txt
+- (trophy, schedule, store, and ticket files for each league)
 
 # How to Run the Project
 
